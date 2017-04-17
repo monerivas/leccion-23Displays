@@ -4,18 +4,20 @@
 }
 
 .pnon{
+  display: inline;
   background-color: #F5E00F;
   height: 70px;
   width:200px;
-  /*padding: 50px;*/
-  margin:15px;
+  padding: 10px;
+  margin:8px;
 }
 
 .ppar{
+  display: inline;
   background-color: #D3336E;
   height: 70px;
   width:200px;
-  /*padding: 50px;*/
-  margin:15px;
+  padding: 10px;
+  margin:8px;
   /*border: 1px solid black;*/
 }
