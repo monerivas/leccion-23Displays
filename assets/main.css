@@ -1,14 +1,21 @@
+*{
+  font-family: helvetica;
+  font-weight: 100;
+}
+
 .pnon{
   background-color: #F5E00F;
-  height: 50px;
+  height: 70px;
+  width:200px;
   /*padding: 50px;*/
-  margin:0;
+  margin:15px;
 }
 
 .ppar{
   background-color: #D3336E;
-  height: 50px;
+  height: 70px;
+  width:200px;
   /*padding: 50px;*/
-  margin:0;
-  border: 1px solid black;
+  margin:15px;
+  /*border: 1px solid black;*/
 }
