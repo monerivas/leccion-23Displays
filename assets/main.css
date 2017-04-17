@@ -1,0 +1,14 @@
+.pnon{
+  background-color: #F5E00F;
+  height: 50px;
+  /*padding: 50px;*/
+  margin:0;
+}
+
+.ppar{
+  background-color: #D3336E;
+  height: 50px;
+  /*padding: 50px;*/
+  margin:0;
+  border: 1px solid black;
+}
